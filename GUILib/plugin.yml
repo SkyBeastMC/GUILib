@@ -1,0 +1,8 @@
+name: GUILib
+version: 1.0
+main: fr.skybeastmc.guilib.Main
+description: HotbarSwitcher
+author: [SkyBeast55]
+depend: [ProtocolLib]
+commands:
+  test:
